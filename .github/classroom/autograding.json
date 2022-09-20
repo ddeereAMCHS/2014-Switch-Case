@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "January",
+      "setup": "javac SwitchCase.java",
+      "run": "java SwitchCase",
+      "input": "1",
+      "output": "January - 31 days",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "February",
+      "setup": "javac SwitchCase.java",
+      "run": "java SwitchCase",
+      "input": "2",
+      "output": "February - 28 days",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "June",
+      "setup": "javac SwitchCase.java",
+      "run": "java SwitchCase",
+      "input": "6",
+      "output": "June - 30 days",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
