@@ -1,6 +1,6 @@
 # Switch-Case Statements
 
-## Due: Tue 9/20 at 11:59 PM
+## Due: Tue 9/19 at 11:59 PM
 
 - Create a program called `SwitchCase.java`
 - Prompt the user for a number between 1 and 12 inclusive
